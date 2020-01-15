@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Image Gallery</string>
+
+    <string name="cancel">Cancel</string>
+
+    <string name="permissions_rationale">To be able to use the app, allow all the permissions</string>
+    <string name="permissions_settings_rationale">
+        <![CDATA[Go to Settings → Permission to allow all the permissions.]]></string>
+    <string name="settings">Settings</string>
+    <string name="ok">Ok</string>
+</resources>
